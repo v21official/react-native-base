@@ -1,0 +1,89 @@
+{
+  "editor.fontLigatures": true,
+  "editor.minimap.showSlider": "always",
+  "breadcrumbs.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "editor.tabSize": 2,
+  "git.autofetch": true,
+  "workbench.startupEditor": "none",
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "sync.gist": "39c7c93d80f3110422b3a77794423203",
+  "editor.formatOnSave": true,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "sync.autoUpload": false,
+  "search.exclude": {
+    "**/node_modules": false
+  },
+  "go.useLanguageServer": true,
+  "editor.suggestSelection": "first",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.allowForcePush": true,
+  "cSpell.userWords": [
+    "Amperfii",
+    "Middlewares",
+    "antd",
+    "dataloader",
+    "esnext",
+    "fbgraph",
+    "mimetype",
+    "nestjs",
+    "qrcode",
+    "typedi",
+    "typegoose",
+    "typeorm",
+    "upsert"
+  ],
+  "cSpell.enableFiletypes": [
+    "!c",
+    "!cpp",
+    "!csharp",
+    "!css",
+    "!handlebars",
+    "!haskell",
+    "!java",
+    "!rust",
+    "!scala"
+  ],
+  "diffEditor.ignoreTrimWhitespace": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.tree.indent": 16,
+  "explorer.compactFolders": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorSurroundingLines": 20,
+  "workbench.colorTheme": "night-eyes-color-maze",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "workbench.editor.untitled.hint": "hidden",
+  "go.toolsManagement.autoUpdate": true,
+  "editor.fontSize": 13,
+  "editor.detectIndentation": false,
+  "prettier.doublequote": true,
+  "window.zoomLevel": 0
+}
